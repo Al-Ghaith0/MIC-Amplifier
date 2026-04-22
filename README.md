@@ -1,5 +1,5 @@
-# Schematics
-circuit schematics for the design
+# MIC-Amplifier
+Amplifier i designed for educational purposes
 I used Altium for design and simulation
 two amplification stages (differential cascode + CE + buffering) all with active loads and mirrors
 open loop amplifier
