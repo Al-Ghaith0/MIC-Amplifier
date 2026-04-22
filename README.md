@@ -14,5 +14,5 @@ The output is affected by noise and instability
 
 Analysis:
 noise and instability due to very bad components and parasitics in PCB
-Gain reduction due to no CMFB(common mode differential circuit) added to the cascode stage and mismatch in components
+Gain reduction due to no CMFB(common mode feedback) added to the cascode stage and mismatch in components
 couldn't determine bandwidth due to limited equipments at that time
